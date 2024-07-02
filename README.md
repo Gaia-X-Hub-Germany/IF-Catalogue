@@ -33,4 +33,5 @@ This format offer the Data Space Community a place for exchange between projects
 - Weekly: OSS Community Call, Thursdays 09.00-09.45. [Register here](https://list.gaia-x.eu/postorius/lists/)
 
 ### Past Meetings & Interesting Reads
+- (Gaia-x & Catalogues](https://gaia-x.eu/news-press/gaia-x-and-catalogues/)
 
