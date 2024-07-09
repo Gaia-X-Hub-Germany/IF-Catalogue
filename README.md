@@ -33,6 +33,7 @@ This format offer the Data Space Community a place for exchange between projects
 - Weekly: OSS Community Call, Thursdays 09.00-09.45. [Register here](https://list.gaia-x.eu/postorius/lists/)
 
 ### Past Meetings & Interesting Reads
-- [Gaia-x & Catalogues](https://gaia-x.eu/news-press/gaia-x-and-catalogues/)
+- [Gaia-X & Catalogues](https://gaia-x.eu/news-press/gaia-x-and-catalogues/)
 - [DCAT](https://www.w3.org/TR/vocab-dcat-3/#Class:Catalog)
+- [IDSA Catalogue Protocol](https://docs.internationaldataspaces.org/ids-knowledgebase/v/dataspace-protocol/catalog/catalog.protocol)
 
