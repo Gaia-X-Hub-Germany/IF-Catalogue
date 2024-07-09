@@ -36,4 +36,5 @@ This format offer the Data Space Community a place for exchange between projects
 - [Gaia-X & Catalogues](https://gaia-x.eu/news-press/gaia-x-and-catalogues/)
 - [DCAT](https://www.w3.org/TR/vocab-dcat-3/#Class:Catalog)
 - [IDSA Catalogue Protocol](https://docs.internationaldataspaces.org/ids-knowledgebase/v/dataspace-protocol/catalog/catalog.protocol)
+- [RESTful API over HTTPS for the Catalog Protocol](https://docs.internationaldataspaces.org/ids-knowledgebase/v/dataspace-protocol/catalog/catalog.binding.https)
 
