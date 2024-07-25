@@ -23,7 +23,8 @@ This meeting depends on contributions from data space projects (i.e. YOU). Pleas
 - Event Updates
 
 ### Reference Implementations
-- [Create Services & Resources Wizard by SmartSense](https://wizard.dev.smart-x.smartsenselabs.com/public/auth)
+- [Catalogue Implementation within the Pontus-X ecosystem](https://github.com/Gaia-X-Hub-Germany/IF-Catalogue/blob/main/Contributions/20240716_IF_Catalogue_PontusX.pdf)
+- [Services & Resources Wizard by SmartSense](https://wizard.dev.smart-x.smartsenselabs.com/public/auth)
 
 ### What is an Implementation Forum?
 This format offer the Data Space Community a place for exchange between projects regarding the [“building blocks” proposed by the DSSC](https://dssc.eu/space/BVE/357073899/Building+Block+Overview). In these meetings our target is to provide a structure to discuss and tackle common issues, progress and questions for the corresponding building block(s). Here, we will focus on topics surrounding implementation for Data Spaces and projects, not on theoretical concepts as do the DSSC expert groups or Gaia-X WGs. To register for the community [please click this link](https://forms.gle/CUDio2n6nGhgM94X6).
