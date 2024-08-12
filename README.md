@@ -14,11 +14,10 @@ This meeting depends on contributions from data space projects (i.e. YOU). Pleas
   - What other alternatives have you looked at?
   - What are your next steps now? How will you scale up on the built-up knowledge?
 
-### Agenda for next meeting, Tuesday 16.07.2024, 15:00-16:00
+### Agenda for next meeting, Tuesday 13.08.2024, 15:00-15:25
 - Welcoming new participants
 - Organizational update & Structure of this meeting
 - Additional Agenda items?
-- Contribution: Catalogue Implementation by Pontus-X (Kai Meinke)
 - AOB
 - Event Updates
 
